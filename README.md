@@ -11,7 +11,7 @@ I'm a passionate and aspiring **Software Engineer** from Tondo, Manila, currentl
 ### 💻 Tech Stack
 
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, TailwindCSS, Bootstrap, Sass
+- **Frameworks & Libraries:** React, TailwindCSS, Bootstrap
 - **Tools & Platforms:** Git, GitHub, Github Desktop, Firefox DevTool, Google DevTool, Xampp
 
 ### 📫 Connect with Me
