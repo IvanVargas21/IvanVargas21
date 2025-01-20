@@ -1,5 +1,5 @@
 ## Hi there, I'm Ivan Christopher Vargas 👋
-<img align="right" alt="Coding" width="400" src="[https://ph.pinterest.com/pin/126734177012516560/](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)">
+<img align="right" alt="Coding" width="400" src="[https://ph.pinterest.com/pin/126734177012516560/](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 I'm a passionate and aspiring **Software Engineer** from Tondo, Manila, currently in my fourth year studying **Computer Engineering at Universidad De Manila**. At 21, I’m driven by my curiosity and a strong commitment to self-improvement, consistently working towards becoming the best version of myself through continuous learning and hands-on experience.
 
 ### 🌱 About Me
