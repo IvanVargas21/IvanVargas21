@@ -21,11 +21,14 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%23323330.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Joi](https://img.shields.io/badge/joi-FF0000?style=for-the-badge)  <!-- Validation -->
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neon Database](https://img.shields.io/badge/neon-%230175C2.svg?style=for-the-badge&logo=neon&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-2D6D94?style=for-the-badge)  <!-- Database Tools -->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  <!-- DevOps -->
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
